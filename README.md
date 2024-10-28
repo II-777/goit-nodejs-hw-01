@@ -8,5 +8,6 @@ tags: goit-nodejs hw-01
 ---
 
 # goit-nodejs-hw-01
-## LIBRARIES USED:
-- [faker](https://www.npmjs.com/package/@faker-js/faker)
+
+## SOFTWARE USED:
+- [faker (random data generator for testing and development)](https://www.npmjs.com/package/@faker-js/faker)
